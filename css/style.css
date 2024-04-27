@@ -1,5 +1,5 @@
-* {
-    font-family: "Lugrasimo";
+body {
+    font-family: "Lugrasimo", cursive;
 }
 
 .lugrasimo-regular {
@@ -7,3 +7,20 @@
     font-weight: 400;
     font-style: normal;
   }
+
+  /* Header */
+.splash {
+    margin: 0 auto;
+    max-width: 1140px;
+    padding: 0 20px;
+    text-align: center; 
+}
+
+/* Content */
+
+.container {
+    margin: 0 auto;
+    width: 1140px;
+    padding: 0 20px; 
+    text-align: center;
+}
