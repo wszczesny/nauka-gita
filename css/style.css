@@ -8,6 +8,10 @@ body {
     font-style: normal;
   }
 
+* {
+  background-color: #2a2b35;
+}
+
 /* Header */
 
   .splash {
@@ -15,6 +19,7 @@ body {
     max-width: 1140px;
     padding: 0 20px;
     text-align: center; 
+    color: #eb8043;
 }
 
 /* Content */
@@ -24,4 +29,5 @@ body {
     width: 1140px;
     padding: 0 20px; 
     text-align: center;
+    color: #f3eeef;
 }
